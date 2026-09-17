@@ -1,0 +1,10 @@
+data/
+checkpoints/
+runs/
+results/
+*.pt
+*.pth
+__pycache__/
+.venv/
+venv/
+.vscode/
